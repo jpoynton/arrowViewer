@@ -1,4 +1,5 @@
 # arrowViewer
-Uses Finos Perspective to view and profile Apache Arrow files. All data stays in memory.
+View and profile data saved in Apache Arrow file format. All your data stays in memory, no data is uploaded to the server.
+Uses [Finos Perspective] (https://github.com/finos/perspective).
 
-https://github.com/finos/perspective
+
